@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rahul Mandal</h1>
 <h3 align="center">A passionate frontend developer , Video Editor & an Electronics & Communication Engineer</h3>
-<img align = "right" alt=''Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align = "right" alt=''Coding" width="600" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-<video width="260" height="115" controls loop>
+<video width="360" height="215" controls loop>
   <source src="video.mp4" type="video/mp4">
 </video>
 
