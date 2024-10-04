@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahulmandal7231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmandal7231" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/rahul-mandal-ryukendo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-mandal-ryukendo" height="50" width="60" /></a>
+<a href="https://twitter.com/rahulmandal7231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmandal7231" height="50" width="60" padding="0px 40px" /></a>
+<a href="https://linkedin.com/in/rahul-mandal-ryukendo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-mandal-ryukendo" height="50" width="60"  padding="0px 40px" /></a>
 <a href="https://instagram.com/r_a_h_u_l______23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_h_u_l______23" height="50" width="60" /></a>
 <a href="https://www.codechef.com/users/rahulmandal723" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulmandal723" height="50" width="60" /></a>
-<a href="https://www.leetcode.com/rahulmandal723202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulmandal723202" height="50" width="60" /></a>
+<a href="https://www.leetcode.com/rahulmandal723202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulmandal723202" height="50" width="60"  padding="0px 40px" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
