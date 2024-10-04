@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rahul Mandal</h1>
 <h3 align="center">A passionate frontend developer , Video Editor & an Electronics & Communication Engineer</h3>
 <img align = "right" alt=''Coding" width="600" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-
-<video width="360" height="215" controls loop>
-  <source src="video.mp4" type="video/mp4">
-</video>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryukendo-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="ryukendo-rahul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryukendo-rahul" alt="ryukendo-rahul" /></a> </p>
